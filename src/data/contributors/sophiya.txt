@@ -1,0 +1,9 @@
+{
+    "name": " Sophiya",
+    "skills": ["Full Stack Web Development", "Java", "C++",],
+    "cause": "Fun",
+    "image": "Avatar3",
+    "github": "https://github.com/sophiya02",
+    "linkedin": "https://www.linkedin.com/in/sophiya-singh-9230791a7/"
+  }
+  
